@@ -1,0 +1,2 @@
+This line is written using withWriter closure and it will overwrite the entire file content.
+This line is written using append.
