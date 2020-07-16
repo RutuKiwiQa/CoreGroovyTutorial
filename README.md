@@ -27,4 +27,13 @@ Here are major reasons, why we should use groovy
 
  ######  After Installing groovy you can use any IDE as per your preference, eclipse or intelije, here I am using intellije IDE, therefore adding link for how to configure groovy in intellije https://www.logicbig.com/tutorials/misc/groovy/intellij.html
  
+ ## About Project
+ ###### This project is further subdivided into three folders.
+ ######  Basic Documentation :- which has one simple basic groovy documentation
+ ######  Files : - text files which are created by me, while performing file input output programs in groovy.
+ ######  src : - This folder contains actual groovy programs,that are splitten into folders namely com/groovy/abstract Demo, com/groovy/Basic Groovy , com/groovy/Interface Demo and com/groovy/ObjectOrientedPrograms.
+ ###### Abstract Demo contains groovy script example of how to perform abstract class.
+ ###### Basic Groovy has groovy script examples for operators, variables, datatypes, control structures ( i.e DecisionMaking - if,if -else, switch and Looping(while,for, and for in), lists, ranges, regular expressions, methods, closures, Exception Handling , File IO,Maps,FirstGroovyProgram and String
+ ###### Interface Demo has example of how to use interface in groovy.
+ ###### ObjectOrientedPrograms has examples of Class and object using same class and different class as well as inheritance in groovy
 
