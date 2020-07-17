@@ -18,7 +18,7 @@ Here are major reasons, why we should use groovy
  ###### In groovy class and functions are not necessary, you can simply run your groovy script by writing your code using groovy script
   
 ## Download and Install Link
-  ###### Ensure sure you have java installed in your system, you can easily check java version in cmd using command 
+  ###### Ensure you have java installed in your system, you can easily check java version in cmd using command 
    ######  	Java -version
 	
  ###### Go to http://groovy-lang.org/download.html
